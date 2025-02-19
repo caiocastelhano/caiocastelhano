@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiocastelhano" alt="caiocastelhano" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
-
 - 🌱 I’m currently learning **Ruby on Rails** and **React**
 
 - 📫 How to reach me **castelhanoc@gmail.com**
