@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiocastelhano" alt="caiocastelhano" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails** and **React**
+- 🌱 I’m currently learning **Ruby on Rails**, **React** and **Next.js**.
 
 - 📫 How to reach me **castelhanoc@gmail.com**
 
 - ⚡ Fun fact **I take pictures of toilet bowls 🚽 (Yes, you read that right!)**
+
+- ⚡ I’m currently developing a website called **Museu Autobiográfico**. More details soon"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
