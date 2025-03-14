@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Caio Castelhano</h1>
-<h3 align="center">A web developer under construction from São Paulo (BR)</h3>
+<h3 align="center">A web developer from São Paulo (BR)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiocastelhano&label=Profile%20views&color=0e75b6&style=flat" alt="caiocastelhano" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Ruby on Rails**, **React** and **Next.js**.
 
 - 📫 How to reach me **castelhanoc@gmail.com**
-
-- ⚡ Fun fact **I take pictures of toilet bowls 🚽 (Yes, you read that right!)**
 
 - ⚡ I’m currently developing a website called **Museu Autobiográfico**. More details soon"
 
