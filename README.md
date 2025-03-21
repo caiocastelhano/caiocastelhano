@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **castelhanoc@gmail.com**
 
-- ⚡ I’m currently developing a website called **Museu Autobiográfico**. More details soon"
+- ⚡ I’m currently developing a website called **Museu Autobiográfico**. More details soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
