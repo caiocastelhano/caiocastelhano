@@ -13,7 +13,7 @@ I’ve just finished two full websites:
 
 - Renata Lage Psicóloga (https://www.renatalagepsicologa.com.br/) – a multilingual one-page website presenting clinical practice and contact information.
 
-Feel free to reach me at: castelhanoc@gmail.com
+Feel free to reach me at castelhanoc@gmail.com or visit my portfolio: [**caiocastelhano.com.br**](https://caiocastelhano.com.br)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
