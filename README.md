@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiocastelhano" alt="caiocastelhano" /></a> </p>
 
-I recently deepened my skills in React, JavaScript, and Next.js through hands-on development.
+I'm actively learning and growing in React, JavaScript, and Next.js, building real-world projects along the way.
 
 I’ve just finished two full websites:
 
-  Museu Autobiográfico e Território_Leste (https://www.museuautobiografico.org/) – a digital cultural project combining memory, territory, and artistic expression.
+- Museu Autobiográfico e Território_Leste (https://www.museuautobiografico.org/) – a digital cultural project combining memory, territory, and artistic expression.
 
-  Renata Lage Psicóloga (https://www.renatalagepsicologa.com.br/) – a multilingual one-page website presenting clinical practice and contact information.
+- Renata Lage Psicóloga (https://www.renatalagepsicologa.com.br/) – a multilingual one-page website presenting clinical practice and contact information.
 
 Feel free to reach me at: castelhanoc@gmail.com
 
