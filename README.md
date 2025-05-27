@@ -1,15 +1,19 @@
-<h1 align="center">Hello 👋, I'm Caio Castelhano</h1>
+<h1 align="center">Hello, I'm Caio Castelhano</h1>
 <h3 align="center">A web developer from São Paulo (BR)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiocastelhano&label=Profile%20views&color=0e75b6&style=flat" alt="caiocastelhano" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiocastelhano" alt="caiocastelhano" /></a> </p>
 
-- 🌱 I’m currently learning **React**, **JavaScript** and **Next.js**.
+I recently deepened my skills in React, JavaScript, and Next.js through hands-on development.
 
-- 📫 How to reach me: **castelhanoc@gmail.com**
+I’ve just finished two full websites:
 
-- ⚡ I’m currently developing two websites: one called **Museu Autobiográfico** and another for a psychologist named **Renate Lage**. More details soon.
+  Museu Autobiográfico e Território_Leste (https://www.museuautobiografico.org/) – a digital cultural project combining memory, territory, and artistic expression.
+
+  Renata Lage Psicóloga (https://www.renatalagepsicologa.com.br/) – a multilingual one-page website presenting clinical practice and contact information.
+
+Feel free to reach me at: castelhanoc@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
