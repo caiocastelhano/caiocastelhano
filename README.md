@@ -13,7 +13,7 @@ I’ve just finished two full websites:
 
 - Renata Lage Psicóloga (https://www.renatalagepsicologa.com.br/) – a multilingual one-page website presenting clinical practice and contact information.
 
-Currently developing: Fabio Montanari(https://site-fabiomontanari.vercel.app/) – a personal website showcasing artistic projects, consultancy, and educational practice.
+Currently developing: Fabio Montanari (https://site-fabiomontanari.vercel.app/) – a personal website showcasing artistic projects, consultancy, and educational practice.
 
 Feel free to reach me at castelhanoc@gmail.com or visit my portfolio: [**caiocastelhano.com.br**](https://caiocastelhano.com.br)
 
