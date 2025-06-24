@@ -71,5 +71,4 @@ Always learning, always building — React, Next.js, JavaScript, and Ruby on Rai
 
 ---
 
-<p align="center">Let’s build something meaningful together 🚀</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=caiocastelhano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+<p align="center">Let’s build something meaningful together</p>
