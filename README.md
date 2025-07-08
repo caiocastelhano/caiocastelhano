@@ -69,6 +69,3 @@ Always learning, always building — React, Next.js, JavaScript, and Ruby on Rai
   </a>
 </p>
 
----
-
-<p align="center">Let’s build something meaningful together</p>
