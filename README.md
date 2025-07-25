@@ -1,5 +1,5 @@
 <h1 align="center">Caio Castelhano</h1>
-<h3 align="center">Web Developer | React • Next.js • Ruby on Rails</h3>
+<h3 align="center">Front-end Developer | React • Next.js • Ruby on Rails</h3>
 
 <p align="center">
   <a href="https://caiocastelhano.com.br" target="_blank">🌐 Portfolio</a> •
@@ -9,7 +9,7 @@
 
 ---
 
-I'm a web developer based in São Paulo, creating websites that tell stories, connect people, and highlight unique experiences.
+I'm a front-end developer based in São Paulo, creating websites that tell stories, connect people, and highlight unique experiences.
 
 I recently launched two full websites:
 
