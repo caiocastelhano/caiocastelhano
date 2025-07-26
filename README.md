@@ -64,8 +64,5 @@ Always learning, always building — React, Next.js, JavaScript, and Ruby on Rai
   <a href="https://linkedin.com/in/caio-castelhano" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/caiocastelhano" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
 </p>
 
