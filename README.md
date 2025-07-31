@@ -11,14 +11,11 @@
 
 I'm a front-end developer based in São Paulo, creating websites that tell stories, connect people, and highlight unique experiences.
 
-I recently launched two full websites:
+I recently launched three full websites:
 
 - 🎨 [Museu Autobiográfico e Território Leste](https://www.museuautobiografico.org/) – a cultural project combining memory, territory, and artistic expression.
 - 🧠 [Renata Lage Psicóloga](https://www.renatalagepsicologa.com.br/) – a multilingual one-page website presenting clinical practice and contact info.
-
-Currently working on:
-
-- 🎬 [Fabio Montanari](https://site-fabiomontanari.vercel.app/) – a personal site showcasing artistic projects, consultancy, and educational work.
+- 🎬 [Fabio Montanari](https://fabiomontanari.com/) – a personal site showcasing artistic projects, consultancy, and educational work.
 
 Always learning, always building — React, Next.js, JavaScript, and Ruby on Rails are my daily tools.
 
