@@ -1,5 +1,5 @@
 <h1 align="center">Caio Castelhano</h1>
-<h3 align="center">Front-end Developer | React • Next.js • Ruby on Rails</h3>
+<h2 align="center">Front-end Developer | React • Next.js • Ruby on Rails</h2>
 
 <p align="center">
   <a href="https://caiocastelhano.com.br" target="_blank">🌐 Portfolio</a> •
@@ -9,57 +9,48 @@
 
 ---
 
-I'm a front-end developer based in São Paulo, creating websites that tell stories, connect people, and highlight unique experiences.
+## 💻 About Me
 
-I recently launched three full websites:
+Front-end developer with hands-on experience delivering real-world projects as a freelancer. I build modern, responsive, and accessible websites, focusing on performance, custom visual identity, and best development practices.
 
-- 🎨 [Museu Autobiográfico e Território Leste](https://www.museuautobiografico.org/) – a cultural project combining memory, territory, and artistic expression.
-- 🧠 [Renata Lage Psicóloga](https://www.renatalagepsicologa.com.br/) – a multilingual one-page website presenting clinical practice and contact info.
-- 🎬 [Fabio Montanari](https://fabiomontanari.com/) – official website of Fabio Montanari — a brazilian director, screenwriter, and educator.
+I work with React, Next.js, JavaScript (ES6+), HTML5, CSS3, Git/GitHub, Vercel, Netlify, and CSS Modules — always mindful of accessibility and SEO.
 
-Always learning, always building — React, Next.js, JavaScript, and Ruby on Rails are my daily tools.
+Before transitioning to tech, I spent over 10 years in digital marketing, content, and social media. I also have a background in film direction and philosophy — experiences that enrich my work with an analytical, creative, and strategic perspective.
 
 ---
 
-### 🚀 Languages & Tools
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" alt="Ruby"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" alt="Rails"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" alt="Heroku"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma"/>
-</p>
+### 🎨 Museu Autobiográfico & Território Leste
+- **Website:** [museuautobiografico.org](https://www.museuautobiografico.org/)  
+- **Repository:** [github.com/caiocastelhano/museuautobiografico](https://github.com/caiocastelhano/museu-autobiografico)  
+- **Description:** Cultural project combining memory, territory, and artistic expression through interactive and accessible web design.  
+- **My role:** Full website development, responsive design, accessibility improvements, SEO optimization, and deployment.  
+- **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
 ---
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=caiocastelhano&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocastelhano&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🧠 Renata Lage Psicóloga
+- **Website:** [renatalagepsicologa.com.br](https://www.renatalagepsicologa.com.br/)  
+- **Repository:** [github.com/caiocastelhano/renatalagepsicologa](https://github.com/caiocastelhano/renatalagepsicologa)  
+- **Description:** Multilingual one-page website presenting clinical practice, specialties, and contact information.  
+- **My role:** Full website development, language switch implementation, responsive design, accessibility improvements, SEO optimization, and deployment.  
+- **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
 ---
 
-### 🌐 Connect with me
+### 🎬 Fabio Montanari
+- **Website:** [fabiomontanari.com](https://fabiomontanari.com/)  
+- **Repository:** [github.com/caiocastelhano/site-fabiomontanari](https://github.com/caiocastelhano/site-fabiomontanari)
+- **Description:** Official website of Brazilian director, screenwriter, and educator Fabio Montanari, showcasing his work and career.  
+- **My role:** Full website development, language switch implementation, performance optimization, accessibility improvements, and custom domain deployment.  
+- **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel, Netlify.
 
-<p align="center">
-  <a href="https://linkedin.com/in/caio-castelhano" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-</p>
+---
 
+### 💼 Personal Portfolio
+- **Website:** [caiocastelhano.com.br](https://www.caiocastelhano.com.br/)  
+- **Repository:** [github.com/caiocastelhano/portfolio](https://github.com/caiocastelhano/portfolio)  
+- **Description:** Personal portfolio showcasing my career transition, featured projects, tech stack, and contact details.  
+- **My role:** Designed and developed from scratch, implementing responsive design, multilingual support, and SEO optimization.  
+- **Tech stack:** React, JavaScript, CSS Modules, Git/GitHub, Vercel.
