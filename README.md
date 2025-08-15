@@ -25,7 +25,7 @@ Before transitioning to tech, I spent over 10 years in digital marketing, conten
 - **Website:** [museuautobiografico.org](https://www.museuautobiografico.org/)  
 - **Repository:** [github.com/caiocastelhano/museuautobiografico](https://github.com/caiocastelhano/museu-autobiografico)  
 - **Description:** Cultural project combining memory, territory, and artistic expression through interactive and accessible web design.  
-- **My role:** Full website development, responsive design, accessibility improvements, SEO optimization, and deployment.  
+- **My role:** Freelancer solo project. Full website development, responsive design, accessibility improvements, SEO optimization, and deployment.  
 - **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
 ---
@@ -34,7 +34,7 @@ Before transitioning to tech, I spent over 10 years in digital marketing, conten
 - **Website:** [renatalagepsicologa.com.br](https://www.renatalagepsicologa.com.br/)  
 - **Repository:** [github.com/caiocastelhano/renatalagepsicologa](https://github.com/caiocastelhano/renatalagepsicologa)  
 - **Description:** Multilingual one-page website presenting clinical practice, specialties, and contact information.  
-- **My role:** Full website development, language switch implementation, responsive design, accessibility improvements, SEO optimization, and deployment.  
+- **My role:** Freelancer solo project. Full website development, language switch implementation, responsive design, accessibility improvements, SEO optimization, and deployment.  
 - **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
 ---
@@ -43,7 +43,7 @@ Before transitioning to tech, I spent over 10 years in digital marketing, conten
 - **Website:** [fabiomontanari.com](https://fabiomontanari.com/)  
 - **Repository:** [github.com/caiocastelhano/site-fabiomontanari](https://github.com/caiocastelhano/site-fabiomontanari)
 - **Description:** Official website of Brazilian director, screenwriter, and educator Fabio Montanari, showcasing his work and career.  
-- **My role:** Full website development, language switch implementation, performance optimization, accessibility improvements, and custom domain deployment.  
+- **My role:** Freelancer solo project. Full website development, language switch implementation, performance optimization, accessibility improvements, and custom domain deployment.  
 - **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel, Netlify.
 
 ---
@@ -55,12 +55,16 @@ Before transitioning to tech, I spent over 10 years in digital marketing, conten
 - **My role:** Designed and developed from scratch, implementing responsive design, multilingual support, and SEO optimization.  
 - **Tech stack:** React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
+---
+
 ### 🎵 GigGoers
 - **Website:** [giggoers-f8d886acbf20.herokuapp.com](https://giggoers-f8d886acbf20.herokuapp.com/)  
 - **Repository:** [github.com/caiocastelhano/giggoers](https://github.com/caiocastelhano/giggoers)  
 - **Description:** App for music lovers to discover and share concerts in São Paulo — developed during the Le Wagon bootcamp.  
 - **My role:** Team development focusing on front-end and integration with back-end, implementing responsive design and event listing features.  
 - **Tech stack:** Ruby on Rails, JavaScript, HTML, SCSS, Geolocation API, Git/GitHub.
+
+---
 
 ### 👨‍🍳 Chef Toi
 - **Website:** [cheftoi.onrender.com](https://cheftoi.onrender.com/)  
