@@ -54,3 +54,17 @@ Before transitioning to tech, I spent over 10 years in digital marketing, conten
 - **Description:** Personal portfolio showcasing my career transition, featured projects, tech stack, and contact details.  
 - **My role:** Designed and developed from scratch, implementing responsive design, multilingual support, and SEO optimization.  
 - **Tech stack:** React, JavaScript, CSS Modules, Git/GitHub, Vercel.
+
+### 🎵 GigGoers
+- **Website:** [giggoers-f8d886acbf20.herokuapp.com](https://giggoers-f8d886acbf20.herokuapp.com/)  
+- **Repository:** [github.com/caiocastelhano/giggoers](https://github.com/caiocastelhano/giggoers)  
+- **Description:** App for music lovers to discover and share concerts in São Paulo — developed during the Le Wagon bootcamp.  
+- **My role:** Team development focusing on front-end and integration with back-end, implementing responsive design and event listing features.  
+- **Tech stack:** Ruby on Rails, JavaScript, HTML, SCSS, Geolocation API, Git/GitHub.
+
+### 👨‍🍳 Chef Toi
+- **Website:** [cheftoi.onrender.com](https://cheftoi.onrender.com/)  
+- **Repository:** [github.com/caiocastelhano/CHEF_TOI](https://github.com/caiocastelhano/CHEF_TOI)  
+- **Description:** Marketplace that connects clients and professional chefs for unique culinary experiences — developed during the Le Wagon bootcamp.  
+- **My role:** Team development focusing on front-end and integration with back-end, implementing responsive design and event booking features.  
+- **Tech stack:** Ruby on Rails, JavaScript, HTML, SCSS, PostgreSQL, Git/GitHub.
