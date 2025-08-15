@@ -2,9 +2,9 @@
 <h2 align="center">Front-end Developer | React • Next.js • Ruby on Rails</h2>
 
 <p align="center">
-  <a href="https://caiocastelhano.com.br" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:castelhanoc@gmail.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/caio-castelhano" target="_blank">💼 LinkedIn</a>
+  <a href="https://caiocastelhano.com.br" target="_blank">Portfolio</a> •
+  <a href="mailto:castelhanoc@gmail.com">✉Email</a> •
+  <a href="https://linkedin.com/in/caio-castelhano" target="_blank">LinkedIn</a>
 </p>
 
 ---
