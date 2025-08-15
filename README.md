@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://caiocastelhano.com.br" target="_blank">Portfolio</a> •
-  <a href="mailto:castelhanoc@gmail.com">✉Email</a> •
+  <a href="mailto:castelhanoc@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/caio-castelhano" target="_blank">LinkedIn</a>
 </p>
 
