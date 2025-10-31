@@ -11,11 +11,14 @@
 
 ## 💻 About Me
 
-Front-end developer with hands-on experience delivering real-world projects as a freelancer. I build modern, responsive, and accessible websites, focusing on performance, custom visual identity, and best development practices.
+Full-stack developer with hands-on experience building real-world projects using Ruby on Rails, React, and Next.js — from backend logic and APIs to responsive, accessible front-end interfaces.
 
-I work with React, Next.js, JavaScript (ES6+), HTML5, CSS3, Git/GitHub, Vercel, Netlify, and CSS Modules — always mindful of accessibility and SEO.
+Currently a Teacher Assistant at Le Wagon, where I help students strengthen their foundations in Ruby, Rails, and JavaScript while reinforcing my own technical and mentoring skills.
 
-Before transitioning to tech, I spent over 10 years in digital marketing, content, and social media. I also have a background in film direction and philosophy — experiences that enrich my work with an analytical, creative, and strategic perspective.
+I’m passionate about clean code, accessibility, and creating fast, user-centered web experiences.
+Tech stack: Ruby on Rails, React, Next.js, JavaScript (ES6+), HTML5, CSS3, Git/GitHub, Vercel, Netlify, and CSS Modules.
+
+Before transitioning to tech, I spent over 10 years working in digital marketing and content strategy, a background that helps me approach development with creativity, clarity, and strategic thinking.
 
 ---
 
