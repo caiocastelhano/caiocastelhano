@@ -22,9 +22,9 @@ Before transitioning to tech, I spent over 10 years working in digital marketing
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🎨 Museu Autobiográfico & Território Leste
+### Museu Autobiográfico & Território Leste
 - **Website:** [museuautobiografico.org](https://www.museuautobiografico.org/)  
 - **Repository:** [github.com/caiocastelhano/museuautobiografico](https://github.com/caiocastelhano/museu-autobiografico)  
 - **Description:** Cultural project combining memory, territory, and artistic expression through interactive and accessible web design.  
@@ -33,7 +33,16 @@ Before transitioning to tech, I spent over 10 years working in digital marketing
 
 ---
 
-### 🧠 Renata Lage Psicóloga
+###  Gisele Sartini
+- **Website:** [giselesartini.com](https://giselesartini.com/)  
+- **Repository:** [github.com/caiocastelhano/gisele-sartini](https://github.com/caiocastelhano/gisele-sartini)  
+- **Description:** Official portfolio website of Gisele Sartini, showcasing video editing, motion design, reels, and audiovisual projects with a clean, modern, and bilingual interface.  
+- **My role:** Freelancer solo project. Full website development, multilingual architecture (PT/EN), metadata and SEO setup, accessibility best practices, domain configuration, and production deployment.  
+- **Tech stack:** Next.js (App Router), React, JavaScript, CSS Modules, Git/GitHub, Vercel, Namecheap (DNS).
+  
+---
+
+### Renata Lage Psicóloga
 - **Website:** [renatalagepsicologa.com.br](https://www.renatalagepsicologa.com.br/)  
 - **Repository:** [github.com/caiocastelhano/renatalagepsicologa](https://github.com/caiocastelhano/renatalagepsicologa)  
 - **Description:** Multilingual one-page website presenting clinical practice, specialties, and contact information.  
@@ -42,7 +51,7 @@ Before transitioning to tech, I spent over 10 years working in digital marketing
 
 ---
 
-### 🎬 Fabio Montanari
+### Fabio Montanari
 - **Website:** [fabiomontanari.com](https://fabiomontanari.com/)  
 - **Repository:** [github.com/caiocastelhano/site-fabiomontanari](https://github.com/caiocastelhano/site-fabiomontanari)
 - **Description:** Official website of Brazilian director, screenwriter, and educator Fabio Montanari, showcasing his work and career.  
@@ -51,7 +60,7 @@ Before transitioning to tech, I spent over 10 years working in digital marketing
 
 ---
 
-### 💼 Personal Portfolio
+### Personal Portfolio
 - **Website:** [caiocastelhano.com.br](https://www.caiocastelhano.com.br/)  
 - **Repository:** [github.com/caiocastelhano/portfolio](https://github.com/caiocastelhano/portfolio)  
 - **Description:** Personal portfolio showcasing my career transition, featured projects, tech stack, and contact details.  
@@ -60,7 +69,7 @@ Before transitioning to tech, I spent over 10 years working in digital marketing
 
 ---
 
-### 🎵 GigGoers
+### GigGoers
 - **Website:** [giggoers-f8d886acbf20.herokuapp.com](https://giggoers-f8d886acbf20.herokuapp.com/)  
 - **Repository:** [github.com/caiocastelhano/giggoers](https://github.com/caiocastelhano/giggoers)  
 - **Description:** App for music lovers to discover and share concerts in São Paulo — developed during the Le Wagon bootcamp.  
@@ -69,7 +78,7 @@ Before transitioning to tech, I spent over 10 years working in digital marketing
 
 ---
 
-### 👨‍🍳 Chef Toi
+### Chef Toi
 - **Website:** [cheftoi.onrender.com](https://cheftoi.onrender.com/)  
 - **Repository:** [github.com/caiocastelhano/CHEF_TOI](https://github.com/caiocastelhano/CHEF_TOI)  
 - **Description:** Marketplace that connects clients and professional chefs for unique culinary experiences — developed during the Le Wagon bootcamp.  
