@@ -1,5 +1,5 @@
 <h1 align="center">Caio Castelhano</h1>
-<h2 align="center">Front-end Developer | React • Next.js • Ruby on Rails</h2>
+<h2 align="center">Full-stack Developer | React • Next.js • Ruby on Rails</h2>
 
 <p align="center">
   <a href="https://caiocastelhano.com.br" target="_blank">Portfolio</a> •
