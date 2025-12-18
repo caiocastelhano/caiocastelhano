@@ -13,10 +13,7 @@
 
 Full-stack developer with hands-on experience building real-world projects using Ruby on Rails, React, and Next.js — from backend logic and APIs to responsive, accessible front-end interfaces.
 
-Currently a Teacher Assistant at Le Wagon, where I help students strengthen their foundations in Ruby, Rails, and JavaScript while reinforcing my own technical and mentoring skills. I’m also developing the new portfolio website for [Gisele Sartini](https://gisele-sartini.vercel.app/).
-
-I’m passionate about clean code, accessibility, and creating fast, user-centered web experiences.
-Tech stack: Ruby on Rails, React, Next.js, JavaScript (ES6+), HTML5, CSS3, Git/GitHub, Vercel, Netlify, and CSS Modules.
+Currently a Teacher Assistant at Le Wagon, where I help students strengthen their foundations in Ruby, Rails, and JavaScript while reinforcing my own technical and mentoring skills.
 
 Before transitioning to tech, I spent over 10 years working in digital marketing and content strategy, a background that helps me approach development with creativity, clarity, and strategic thinking.
 
