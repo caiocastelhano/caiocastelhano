@@ -11,11 +11,11 @@
 
 ## 💻 About Me
 
-Full-stack developer with hands-on experience building real-world projects using Ruby on Rails, React, and Next.js — from backend logic and APIs to responsive, accessible front-end interfaces.
+Full-stack developer building real-world products with Ruby on Rails, React, and Next.js — from backend architecture to accessible, high-performance front-ends.
 
-Currently a Teacher Assistant at Le Wagon, where I help students strengthen their foundations in Ruby, Rails, and JavaScript while reinforcing my own technical and mentoring skills.
+Teacher & Teacher Assistant at Le Wagon, helping developers master Ruby, Rails, and HTML/CSS/JavaScript while continuously sharpening my own technical and mentoring skills.
 
-Before transitioning to tech, I spent over 10 years working in digital marketing and content strategy, a background that helps me approach development with creativity, clarity, and strategic thinking.
+Former digital marketing & content strategist with 10+ years of experience, bringing storytelling, product thinking, and communication into every line of code.
 
 ---
 
