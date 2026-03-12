@@ -11,11 +11,11 @@
 
 ## 💻 About Me
 
-Full-stack developer building real-world products with Ruby on Rails, React, and Next.js — from backend architecture to accessible, high-performance front-ends.
+Full-stack developer building real-world web applications with **Ruby on Rails, React, and Next.js**, working across the entire product lifecycle, from backend architecture to accessible, high-performance front-ends and production deployment.
 
-Teacher & Teacher Assistant at Le Wagon, helping developers master Ruby, Rails, and HTML/CSS/JavaScript while continuously sharpening my own technical and mentoring skills.
+I currently work as a **Teacher and Teacher Assistant at Le Wagon**, helping developers master **Ruby, Rails, HTML, CSS and JavaScript**, while continuously strengthening my own technical and mentoring skills.
 
-Former digital marketing & content strategist with 10+ years of experience, bringing storytelling, product thinking, and communication into every line of code.
+Before moving into tech, I spent **10+ years in digital marketing and content strategy**, which shaped how I think about **product, users, storytelling and communication** when building software.
 
 ---
 
@@ -57,10 +57,19 @@ Former digital marketing & content strategist with 10+ years of experience, brin
 
 ---
 
-### Personal Portfolio
-- **Website:** [caiocastelhano.com.br](https://www.caiocastelhano.com.br/)  
+### Portfolio v2
+- **Website:** [caiocastelhano.com.br](https://caiocastelhano.com.br/)  
+- **Repository:** [github.com/caiocastelhano/caiocastelhano-portfolio-v2](https://github.com/caiocastelhano/caiocastelhano-portfolio-v2)  
+- **Description:** Second version of my personal portfolio, redesigned and rebuilt with a modular architecture, improved performance, accessibility, and multilingual support.  
+- **My role:** Designed and developed from scratch, focusing on component architecture, responsive grid layout, accessibility best practices, and production deployment.  
+- **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
+
+---
+
+### Portfolio v1
+- **Website:** [v1.caiocastelhano.com.br](https://v1.caiocastelhano.com.br/)  
 - **Repository:** [github.com/caiocastelhano/portfolio](https://github.com/caiocastelhano/portfolio)  
-- **Description:** Personal portfolio showcasing my career transition, featured projects, tech stack, and contact details.  
+- **Description:** First version of my personal portfolio, built from scratch to present my projects and career transition into web development.  
 - **My role:** Designed and developed from scratch, implementing responsive design, multilingual support, and SEO optimization.  
 - **Tech stack:** React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
@@ -72,12 +81,3 @@ Former digital marketing & content strategist with 10+ years of experience, brin
 - **Description:** App for music lovers to discover and share concerts in São Paulo — developed during the Le Wagon bootcamp.  
 - **My role:** Team development focusing on front-end and integration with back-end, implementing responsive design and event listing features.  
 - **Tech stack:** Ruby on Rails, JavaScript, HTML, SCSS, Geolocation API, Git/GitHub.
-
----
-
-### Chef Toi
-- **Website:** [cheftoi.onrender.com](https://cheftoi.onrender.com/)  
-- **Repository:** [github.com/caiocastelhano/CHEF_TOI](https://github.com/caiocastelhano/CHEF_TOI)  
-- **Description:** Marketplace that connects clients and professional chefs for unique culinary experiences — developed during the Le Wagon bootcamp.  
-- **My role:** Team development focusing on front-end and integration with back-end, implementing responsive design and event booking features.  
-- **Tech stack:** Ruby on Rails, JavaScript, HTML, SCSS, PostgreSQL, Git/GitHub.
