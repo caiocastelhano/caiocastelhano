@@ -1,5 +1,5 @@
 <h1 align="center">Caio Castelhano</h1>
-<h2 align="center">Full-stack Developer | React • Next.js • Ruby on Rails</h2>
+<h2 align="center">Full-stack Developer | Ruby on Rails • Next.js</h2>
 
 <p align="center">
   <a href="https://caiocastelhano.com.br" target="_blank">Portfolio</a> •
@@ -9,41 +9,34 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
-Full-stack developer building real-world web applications with **Ruby on Rails, React, and Next.js**, working across the entire product lifecycle, from backend architecture to accessible, high-performance front-ends and production deployment.
+Full-stack developer building web applications with **Ruby on Rails** and **Next.js**, from product conception and backend architecture to deployment and long-term maintenance.
 
-I currently work as a **Teacher and Teacher Assistant at Le Wagon**, helping developers master **Ruby, Rails, HTML, CSS and JavaScript**, while continuously strengthening my own technical and mentoring skills.
+I'm the creator of **STRAKS**, a Progressive Web App that helps concertgoers organize upcoming shows, track ticket information, and receive reminders before important events.
 
-Before moving into tech, I spent **10+ years in digital marketing and content strategy**, which shaped how I think about **product, users, storytelling and communication** when building software.
+I also work as a **Teacher and Teacher Assistant at Le Wagon**, helping developers learn **Ruby, Rails, HTML, CSS, and JavaScript** while continuing to strengthen my own technical and mentoring skills.
+
+Before transitioning into software development, I spent more than **10 years working in digital marketing and content strategy**. I also have academic and creative backgrounds in **Philosophy** and **Film Direction**, experiences that continue to influence how I think about **products, storytelling, user experience, and problem-solving**.
 
 ---
 
 ## Featured Projects
 
+### STRAKS
+- **Website:** [straks.app](https://www.straks.app/)  
+- **Repository:** Private repository  
+- **Description:** Progressive Web App built for concertgoers to organize upcoming shows, track ticket status and purchase information, keep a personal concert history, and receive automated reminders before important event dates.  
+- **My role:** Personal project. Product conception, UX/UI design, full-stack development, notification architecture, PWA implementation, deployment, and ongoing maintenance.  
+- **Tech stack:** Ruby on Rails, PostgreSQL, Hotwire (Turbo + Stimulus), Devise, Web Push API, HTML, CSS, Git/GitHub, Render.
+
+---
+
 ### Museu Autobiográfico & Território Leste
 - **Website:** [museuautobiografico.org](https://www.museuautobiografico.org/)  
 - **Repository:** [github.com/caiocastelhano/museuautobiografico](https://github.com/caiocastelhano/museu-autobiografico)  
 - **Description:** Cultural project combining memory, territory, and artistic expression through interactive and accessible web design.  
-- **My role:** Freelancer solo project. Full website development, responsive design, accessibility improvements, SEO optimization, and deployment.  
-- **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
-
----
-
-###  Gisele Sartini
-- **Website:** [giselesartini.com](https://giselesartini.com/)  
-- **Repository:** [github.com/caiocastelhano/gisele-sartini](https://github.com/caiocastelhano/gisele-sartini)  
-- **Description:** Official portfolio website of Gisele Sartini, showcasing video editing, motion design, reels, and audiovisual projects with a clean, modern, and bilingual interface.  
-- **My role:** Freelancer solo project. Full website development, multilingual architecture (PT/EN), metadata and SEO setup, accessibility best practices, domain configuration, and production deployment.  
-- **Tech stack:** Next.js (App Router), React, JavaScript, CSS Modules, Git/GitHub, Vercel, Namecheap (DNS).
-  
----
-
-### Renata Lage Psicóloga
-- **Website:** [renatalagepsicologa.com.br](https://www.renatalagepsicologa.com.br/)  
-- **Repository:** [github.com/caiocastelhano/renatalagepsicologa](https://github.com/caiocastelhano/renatalagepsicologa)  
-- **Description:** Multilingual one-page website presenting clinical practice, specialties, and contact information.  
-- **My role:** Freelancer solo project. Full website development, language switch implementation, responsive design, accessibility improvements, SEO optimization, and deployment.  
+- **My role:** Single-developer project. Full website development, responsive design, accessibility improvements, SEO optimization, and deployment.  
 - **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
 ---
@@ -52,8 +45,26 @@ Before moving into tech, I spent **10+ years in digital marketing and content st
 - **Website:** [fabiomontanari.com](https://fabiomontanari.com/)  
 - **Repository:** [github.com/caiocastelhano/site-fabiomontanari](https://github.com/caiocastelhano/site-fabiomontanari)
 - **Description:** Official website of Brazilian director, screenwriter, and educator Fabio Montanari, showcasing his work and career.  
-- **My role:** Freelancer solo project. Full website development, language switch implementation, performance optimization, accessibility improvements, and custom domain deployment.  
+- **My role:** Sole developer. Full website development, language switch implementation, performance optimization, accessibility improvements, and custom domain deployment.  
 - **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel, Netlify.
+
+---
+
+###  Gisele Sartini
+- **Website:** [giselesartini.com](https://giselesartini.com/)  
+- **Repository:** [github.com/caiocastelhano/gisele-sartini](https://github.com/caiocastelhano/gisele-sartini)  
+- **Description:** Official portfolio website of Gisele Sartini, showcasing video editing, motion design, reels, and audiovisual projects with a clean, modern, and bilingual interface.  
+- **My role:** Freelance project developed independently. Full website development, multilingual architecture (PT/EN), metadata and SEO setup, accessibility best practices, domain configuration, and production deployment.  
+- **Tech stack:** Next.js (App Router), React, JavaScript, CSS Modules, Git/GitHub, Vercel, Namecheap (DNS).
+  
+---
+
+### Renata Lage Psicóloga
+- **Website:** [renatalagepsicologa.com.br](https://www.renatalagepsicologa.com.br/)  
+- **Repository:** [github.com/caiocastelhano/renatalagepsicologa](https://github.com/caiocastelhano/renatalagepsicologa)  
+- **Description:** Multilingual one-page website presenting clinical practice, specialties, and contact information.  
+- **My role:** Independent client project. Full website development, language switch implementation, responsive design, accessibility improvements, SEO optimization, and deployment.  
+- **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
 ---
 
@@ -63,15 +74,6 @@ Before moving into tech, I spent **10+ years in digital marketing and content st
 - **Description:** Second version of my personal portfolio, redesigned and rebuilt with a modular architecture, improved performance, accessibility, and multilingual support.  
 - **My role:** Designed and developed from scratch, focusing on component architecture, responsive grid layout, accessibility best practices, and production deployment.  
 - **Tech stack:** Next.js, React, JavaScript, CSS Modules, Git/GitHub, Vercel.
-
----
-
-### Portfolio v1
-- **Website:** [v1.caiocastelhano.com.br](https://v1.caiocastelhano.com.br/)  
-- **Repository:** [github.com/caiocastelhano/portfolio](https://github.com/caiocastelhano/portfolio)  
-- **Description:** First version of my personal portfolio, built from scratch to present my projects and career transition into web development.  
-- **My role:** Designed and developed from scratch, implementing responsive design, multilingual support, and SEO optimization.  
-- **Tech stack:** React, JavaScript, CSS Modules, Git/GitHub, Vercel.
 
 ---
 
