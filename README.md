@@ -68,7 +68,7 @@ Before transitioning into software development, I spent more than **10 years wor
 
 ---
 
-### Portfolio v2
+### Portfolio
 - **Website:** [caiocastelhano.com.br](https://caiocastelhano.com.br/)  
 - **Repository:** [github.com/caiocastelhano/caiocastelhano-portfolio-v2](https://github.com/caiocastelhano/caiocastelhano-portfolio-v2)  
 - **Description:** Second version of my personal portfolio, redesigned and rebuilt with a modular architecture, improved performance, accessibility, and multilingual support.  
